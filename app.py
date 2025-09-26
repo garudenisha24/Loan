@@ -1,8 +1,8 @@
 import streamlit as st 
 import pandas as pd
 import numpy as np 
-#import matplotlib.pyplot as plt 
-train_data = pd.read_csv("Titanic_Train.csv")
+import matplotlib.pyplot as plt 
+train_data = pd.read_csv("Titanic_train.csv")
 from sklearn.preprocessing import LabelEncoder
 le= LabelEncoder()
 import joblib
