@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 Loan_PredictionLoan Prediction Project This project aims to predict the likelihood of a loan application being approved based on applicant details such as income, credit history, employment status, loan amount, and other financial indicators. By leveraging machine learning models, the system helps financial institutions automate risk assessment and improve decision-making efficiency. The project includes data preprocessing, exploratory data analysis (EDA), feature engineering, model training, and performance evaluation to ensure reliable predictions.
+=======
+Loan Prediction Project
+This project aims to predict the likelihood of a loan application being approved based on applicant details such as income, credit history, employment status, loan amount, and other financial indicators. By leveraging machine learning models, the system helps financial institutions automate risk assessment and improve decision-making efficiency. The project includes data preprocessing, exploratory data analysis (EDA), feature engineering, model training, and performance evaluation to ensure reliable predictions.
+>>>>>>> 91c582adbfd65b1ceb8bddbea0eec97ecdb17797
